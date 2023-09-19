@@ -1,6 +1,6 @@
-#Projeto All For One - Meus Desafios SQL
+# Projeto All For One - Meus Desafios SQL
 
-##Durante o projeto All For One, pude explorar e aprimorar minhas habilidades em SQL através de uma série de desafios com diferentes níveis de complexidade. Cada desafio tinha seu próprio arquivo específico, e meu objetivo era resolver cada um deles usando SQL. Foi uma jornada empolgante de manipulação de dados em um banco de dados relacional.
+## Durante o projeto All For One, pude explorar e aprimorar minhas habilidades em SQL através de uma série de desafios com diferentes níveis de complexidade. Cada desafio tinha seu próprio arquivo específico, e meu objetivo era resolver cada um deles usando SQL. Foi uma jornada empolgante de manipulação de dados em um banco de dados relacional.
 
 #Para completar esse projeto, eu:
 
@@ -9,7 +9,7 @@
 3. Escrevi consultas SQL para acessar, filtrar e manipular informações em tabelas.
 4. Aqui está um resumo dos principais desafios que enfrentei:
 
-#Desafios Iniciais
+# Desafios Iniciais
 
 1. Exibir apenas os nomes dos produtos na tabela products.
 2. Exibir todos os dados de todas as colunas da tabela products.
@@ -19,7 +19,7 @@
 6. Exibir os dados das colunas product_name e id da tabela products em ordem alfabética dos nomes.
 7. Mostrar apenas os IDs dos 5 últimos registros da tabela products.
 
-#Desafios de Filtragem de Dados
+# Desafios de Filtragem de Dados
 
 1. Consultar a tabela employees para retornar o nome completo da pessoa colaboradora (colunas first_name e last_name) com o nome full_name, e também a localização completa (colunas city, state_province e address) com o nome location.
 2. Mostrar todos os valores da coluna notes da tabela purchase_orders que não são nulos.
@@ -34,7 +34,7 @@
 11. Exibir todos os registros de purchase_orders onde o supplier_id seja igual a 3 e o status_id seja igual a 2.
 12. Mostrar a quantidade de pedidos feitos na tabela orders onde employee_id seja igual a 5 ou 6, e que foram enviados através do método (coluna shipper_id) igual a 2.
 
-#Desafios de Manipulação de Tabelas
+# Desafios de Manipulação de Tabelas
 
 1. Adicionar um registro à tabela order_details com order_id: 69, product_id: 80, quantity: 15.0000, unit_price: 15.0000, discount: 0, status_id: 2, date_allocated: NULL, purchase_order_id: NULL e inventory_id: 129.
 2. Adicionar duas linhas à 
@@ -47,4 +47,4 @@
 9. Deletar todos os dados na tabela order_details onde a unit_price seja maior que 10.0000.
 10. Deletar todos os dados da tabela order_details.
 
-##Esse projeto foi uma oportunidade emocionante de aplicar meus conhecimentos em SQL e me preparar para desafios ainda maiores. Estou ansioso para compartilhar meu progresso no GitHub e LinkedIn e continuar aprendendo cada vez mais! 🚀🎉
+## Esse projeto foi uma oportunidade emocionante de aplicar meus conhecimentos em SQL e me preparar para desafios ainda maiores. Estou ansioso para compartilhar meu progresso no GitHub e LinkedIn e continuar aprendendo cada vez mais! 🚀🎉
